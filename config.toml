@@ -1,4 +1,5 @@
-baseURL = "/"
+#baseURL = "/"
+baseURL="https://www.zhaohuabing.com/learning-envoy/"
 title = "Envoy 学习笔记"
 
 # Language settings
