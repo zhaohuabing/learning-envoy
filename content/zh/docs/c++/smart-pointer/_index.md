@@ -1,7 +1,7 @@
 ---
 title: "Smart Pointers"
 linkTitle: "Smart Pointers"
-weight: 1
+weight: 2
 description: >
   Smart pointers 可以自动跟踪一个对象的引用次数并管理对象的内存。
 ---
