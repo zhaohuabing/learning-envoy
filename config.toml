@@ -217,7 +217,7 @@ svg_image_url = "https://www.plantuml.com/plantuml/svg/"
 [params.giscus]
     data_repo = "zhaohuabing/learning-envoy"
     data_repo_id = "R_kgDOHmocKg"
-    data_category = "Announcemens"
+    data_category = "Announcements"
     data_category_id = "DIC_kwDOHmocKs4CSXPk"
     data_mapping = "pathname"
     data_reactions_enabled = "1"
